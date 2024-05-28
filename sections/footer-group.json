@@ -1,0 +1,62 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_3PfDRp": {
+          "type": "link_list",
+          "settings": {
+            "heading": "PRODUCT",
+            "menu": "main-menu"
+          }
+        },
+        "link_list_fCpVdB": {
+          "type": "link_list",
+          "settings": {
+            "heading": "DETAILS",
+            "menu": "footer"
+          }
+        },
+        "link_list_RFEatG": {
+          "type": "link_list",
+          "settings": {
+            "heading": "ABOUT",
+            "menu": "footer-about-menu"
+          }
+        },
+        "link_list_fC9kyW": {
+          "type": "link_list",
+          "settings": {
+            "heading": "CONNECT",
+            "menu": "connect-menu"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_3PfDRp",
+        "link_list_fCpVdB",
+        "link_list_RFEatG",
+        "link_list_fC9kyW"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "newsletter_enable": true,
+        "newsletter_heading": "NEWS AND UPDATES",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

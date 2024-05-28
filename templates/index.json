@@ -1,0 +1,267 @@
+{
+  "sections": {
+    "slideshow_7KPXqm": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_3VqzMJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/black-and-white-living-room.jpg",
+            "heading": "Luxurious Comfort Awaits",
+            "heading_size": "h2",
+            "subheading": "Discover the epitome of comfort and style with our exquisite collection of sofas. Crafted with premium materials and designed for ultimate relaxation, our sofas are the perfect addition to your living space.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_qt97qH": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marquesa_Outdoor_Sofa_White_Gale_Laka_Lifestyle.webp",
+            "heading": "Sustainable Luxury",
+            "heading_size": "h2",
+            "subheading": "Experience the beauty of eco-friendly furniture. Our sustainable collections combine luxury and responsibility, offering stylish pieces that are kind to the environment and built to last.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_9LWK3X": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mcintosh-White-Black-Rectangle-Coffee-Table-Lifestyle-MAIN.webp",
+            "heading": "Elegant Chairs for Every Room",
+            "heading_size": "h2",
+            "subheading": "Transform any room with our selection of elegant chairs. From classic designs to modern chic, find the perfect chair that complements your style and adds a touch of sophistication to your home.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_3VqzMJ",
+        "slide_qt97qH",
+        "slide_9LWK3X"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 7,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "rich_text_H6G748": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zFeAkd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transform Your Home with Timeless Elegance",
+            "heading_size": "h1"
+          }
+        },
+        "text_ij9kaD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At LuxeLiving Furniture, we believe that the perfect piece of furniture can transform your home into a sanctuary of style and comfort. Our curated collection of chairs and sofas combines luxury, quality, and affordability, ensuring you find the perfect match for your aesthetic.<\/p>"
+          }
+        },
+        "button_WbJFE8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/blogs\/news",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zFeAkd",
+        "text_ij9kaD",
+        "button_WbJFE8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_YQYxmi": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "FEATURED COLLECTIONS",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_bFaiwF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XBX6da": {
+          "type": "heading",
+          "settings": {
+            "heading": "CHAIRS",
+            "heading_size": "h1"
+          }
+        },
+        "text_wJadWm": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Classic Elegance<\/strong><br\/>Discover our range of classic chairs, designed with timeless elegance and superior craftsmanship. Perfect for any room, these pieces offer both style and comfort.<\/p><p><strong>Modern Chic<\/strong><br\/>For those who appreciate contemporary design, our modern chic chairs are crafted with sleek lines and innovative materials. Make a bold statement with our eye-catching designs.<\/p><p><strong>Cozy Comfort<\/strong><br\/>Embrace the warmth and coziness with our selection of plush, comfortable chairs. Ideal for reading nooks or living rooms, these chairs provide the perfect spot to relax.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_jD4dW8": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XBX6da",
+        "text_wJadWm",
+        "button_jD4dW8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/couchs-with-plant-middle-table.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_ptre6m": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QcHe7W": {
+          "type": "heading",
+          "settings": {
+            "heading": "SOFAS",
+            "heading_size": "h1"
+          }
+        },
+        "text_L6NaaA": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Luxurious Leather<\/strong><br\/>Our leather sofas exude sophistication and durability. Available in a variety of colors and styles, they are a timeless addition to any home.<\/p><p><strong>Fabric Favorites<\/strong><br\/>Choose from a wide range of fabric sofas that blend style and comfort. With numerous color and texture options, you’ll find the perfect piece to match your decor.<\/p><p><strong>Sectional Sofas<\/strong><br\/>Maximize your space with our versatile sectional sofas. Perfect for larger living areas, they offer ample seating without compromising on style.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_ctCHct": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOW NOW",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QcHe7W",
+        "text_L6NaaA",
+        "button_ctCHct"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/c148f949a7943e14cda5fabee688a923.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_blog_qDHw3f": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "OUR BLOGS",
+        "heading_size": "h1",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-2",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_7KPXqm",
+    "rich_text_H6G748",
+    "featured_collection_YQYxmi",
+    "image_with_text_bFaiwF",
+    "image_with_text_ptre6m",
+    "featured_blog_qDHw3f"
+  ]
+}
